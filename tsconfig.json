@@ -4,7 +4,7 @@
       "es2020"
     ],
     "module": "ESNext",
-    "moduleResolution": "node",
+    "moduleResolution": "Bundler",
     "target": "es2022",
     "strict": true,
     "sourceMap": true,
